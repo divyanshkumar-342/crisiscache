@@ -1,0 +1,16 @@
+{
+  "short_name": "CRISISCACHE",
+  "name": "CRISISCACHE Emergency Intelligence",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0A1019",
+  "theme_color": "#0A1019",
+  "display": "standalone",
+  "orientation": "any"
+}
